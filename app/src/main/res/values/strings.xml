@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Job Roster</string>
+    <string-array name="roles">
+        <item>Supervisor</item>
+        <item>Co-ordinator</item>
+        <item>Front Staff</item>
+        <item>Back Staff</item>
+        <item>All</item>
+    </string-array>
+</resources>

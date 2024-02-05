@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigation_profile"
+        android:title="Profile"
+        app:iconTint="@color/white"
+        android:titleTextColor="@color/white"
+        android:icon="@drawable/ic_launcher_foreground" />
+
+    <item
+        android:id="@+id/navigation_AddEmployee"
+        android:title="Add Employee"
+        app:iconTint="@color/white"
+        android:titleTextColor="@color/white"
+        android:icon="@drawable/ic_launcher_foreground" />
+    <item
+        android:id="@+id/Navigation_UpdateEmployee"
+        android:title="Update Employee"
+        android:icon="@drawable/ic_launcher_foreground" />
+
+    <!-- Add more items for other destinations as needed -->
+</menu>
